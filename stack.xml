@@ -8,6 +8,7 @@
   <url>http://ros.org/wiki/jenkins_test_dry_dependson_dry</url>
 
   <depend stack="roscpp" />
+  <depend stack="rostest" />
   <depend stack="jenkins_test_dry" />
 
 </stack>
